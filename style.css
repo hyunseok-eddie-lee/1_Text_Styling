@@ -1,0 +1,27 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1 span {
+    color: cyan;
+}
+
+h2 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    text-decoration: none;
+}
+
+h3 {
+    background-color: skyblue;
+    color: darkslateblue;
+    text-align: right;
+    text-decoration: underline;
+    font-style: normal;
+}
